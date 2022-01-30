@@ -1,7 +1,13 @@
+
+
 .navbar{
-    height: 10vh;
+    height: 0vh;
     display: flex;
     justify-content: space-between;
     word-spacing: 100px;
+    margin: 10px;
+    /* color: white; */
 }
+.navs{
+    /* word-spacing: 5px; */
 }
