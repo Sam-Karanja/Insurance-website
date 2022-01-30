@@ -11,3 +11,32 @@
 .navs{
     /* word-spacing: 5px; */
 }
+
+#become{
+    background-color: #23A6F0;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.peace{
+   display: flex;
+   justify-content: space-around;
+   
+}
+
+#sc1{
+    height: 10px;
+}
+
+.mind{
+    background-color: white;
+}
+
+.life{
+    background-color: white;
+}
+
+.satisfaction{
+    background-color: #23A6F0;
+color: white;
+}
