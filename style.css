@@ -1,0 +1,7 @@
+.navbar{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    word-spacing: 100px;
+}
+}
