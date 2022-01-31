@@ -115,6 +115,10 @@ width: auto;
     color: orange;
 }
 
+.class2{
+    background-color: #c4c4c4c9);
+}
+
 .industry {
     /* box-shadow: 0px 5px 12px rgba(0, 0, 0, 0.2); */
     padding: 30px;
@@ -133,5 +137,56 @@ width: auto;
     justify-content: space-around;
     border: 1px solid;
     height: auto;
+    padding: 10px;
+    object-fit: contain;
+}
+
+.price{
+    text-align: center;
+    padding: 50px;
+}
+
+.try{
+    display: flex;
+    align-items: center;
+    padding: 50px 100px 50px 500px;
+    
+}
+
+.free{
+    border: 1px solid #23A6F0;
+    text-align: center;
+    border-radius: 10px;
     padding: 40px;
+
+}
+
+.standard{
+    border: 1px solid #23A6F0;
+    text-align: center;
+    height: 500px;
+    border-radius: 10px;
+    padding: 40px;
+    background-color: #252B42;
+    color: white;
+}
+
+
+.premium{
+    border: 1px solid #23A6F0;
+    text-align: center;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.trybutton{
+    background-color: #23A6F0;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    font-size: x-large;
+}
+
+.dollar{
+    color:#23A6F0 ;
 }
