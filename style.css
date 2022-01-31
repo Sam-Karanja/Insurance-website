@@ -18,15 +18,16 @@
 
 }
 
+
 .peace {
     display: flex;
     justify-content: space-around;
     padding: 10px;
-    background-color: wheat;
+    
 }
 
 #sc1 {
-    height: 10px;
+    height: 100vh;
 }
 
 .mind {
@@ -51,7 +52,6 @@
     display: flex;
     justify-content: space-around;
     padding: 100px;
-    background-color: thistle;
 }
 
 .mind2 {
